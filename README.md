@@ -1,24 +1,39 @@
 # Система контроля версий Git
-- [x] Setting up git config
+- [x] Первоначальная настройка Git
   ```
     git config --global user.name ""
     git config --global user.email ""
   ```
+- [X] Просмотр конфигураций удаленных репозиториев
+> Список ваших удаленных подключений к другим репозиториям.
+  ```
+    git remote
+  ```
+> Аналогично команде выше, но включает URL-адрес каждого подключения.
+  ```
+    git remote -v
+  ```
+> Создание нового подключения к удаленному репозиторию.
+  ```
+    git remote add <name> <url>
+  ```
+> Удаление подключения к удаленному репозиторию с именем.
+  ```
+    git remote rm <name>
+  ```
 
-- [X] Adding gitignore
-  ![.gitignore](https://i.imgur.com/mRHa8oj.png)
-
-- [X] Adding to Repository/Virtual + Commit
-- Virtual
-    ```
+- [X] Загрузка репозитория на сайт/локальный сервер
+- Локальный
+> Добавить все измененные файлы в индекс репозитория
+  ```
   git add .
-  git commit -m ""
-    ```
-- Repository
-    ```
-  git remote add origin main
+  ```
+- Сайт
+>Отправка изменений
+  ```
+  git remote add origin main 
   git push -u origin main
-    ```
+  ```
   
   
 - [X] Adding a branch **root**
