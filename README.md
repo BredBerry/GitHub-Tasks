@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/badge/Telegram-t.me%2Ftheonlywiilldii-brightgreen)(https://t.me/theonlywiilldii) ![](https://img.shields.io/badge/VK-vk.com%2Ftheonlymark-red)(https://vk.com/theonlymark)
+[![TG]](https://img.shields.io/badge/Telegram-t.me%2Ftheonlywiilldii-brightgreen)(https://t.me/theonlywiilldii)] ![](https://img.shields.io/badge/VK-vk.com%2Ftheonlymark-red)(https://vk.com/theonlymark)
 
 # Система контроля версий Git
 ![GitHub](https://miro.medium.com/max/4800/1*cTPHRuyn46e4Su4QJ7S5NQ.gif)
