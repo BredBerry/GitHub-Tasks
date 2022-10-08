@@ -1,11 +1,18 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2Ftheonlywiilldii-brightgreen)](https://t.me/theonlywiilldii) [![VK](https://img.shields.io/badge/VK-vk.com%2Ftheonlymark-red)](https://vk.com/theonlymark)
+# Горячие клавиши в VS Code
+
+| Название ГК | Клавиши |  |
+|----------------|:---------:|----------------:|
+| Вызвать поиск | <kbd>Ctrl</kbd>+<kbd>F</kbd> | <details><summary> Подробнее </summary></details>Нажмите Ctrl + F (Windows) или ⌘Cmd + F (macOS). Введите искомое — высветятся все найденные места. Остаётся перемещаться по ним (стрелочками в форме поиска). |
+| текст | текст | текст |
+
 # Система контроля версий Git
 ![GitHub](https://miro.medium.com/max/4800/1*cTPHRuyn46e4Su4QJ7S5NQ.gif)
+
+
 - [X] **Первоначальная настройка Git** :blue_heart:
-  
-  
 
 > Первое, что вам следует сделать после установки Git — указать ваше имя и адрес электронной почты.
   ```
