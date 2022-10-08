@@ -5,6 +5,13 @@
 ![GitHub](https://miro.medium.com/max/4800/1*cTPHRuyn46e4Su4QJ7S5NQ.gif)
 - [X] **Первоначальная настройка Git** :blue_heart:
   
+  ```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+  ```
+
 > Первое, что вам следует сделать после установки Git — указать ваше имя и адрес электронной почты.
   ```
     git config --global user.name ""
