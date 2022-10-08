@@ -1,6 +1,9 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2Ftheonlywiilldii-brightgreen)](https://t.me/theonlywiilldii) [![VK](https://img.shields.io/badge/VK-vk.com%2Ftheonlymark-red)](https://vk.com/theonlymark)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%AF+%D0%B7%D0%B0%D0%B5%23%D0%B0%D0%BB%D1%81%D1%8F+%D1%8D%D1%82%D0%BE+%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C)](https://git.io/typing-svg)
+
 # Горячие клавиши в VS Code
 
 | Название ГК | Клавиши |  |
